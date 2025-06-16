@@ -75,8 +75,6 @@
 
 ## 📈 Estatísticas do GitHub
 
-## 📈 Estatísticas do GitHub
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-sousa-dev&layout=compact&theme=radical)
 
 ---
