@@ -77,7 +77,6 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Bruna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruna-sousa-dev&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-sousa-dev&layout=compact&theme=radical)
 
 ---
