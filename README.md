@@ -10,7 +10,7 @@
 
 # 🚀 Algumas Tecnologias & Ferramentas
 
-## 🖥️ Linguagens de Programação
+## 🖥️ Linguagens
 
 * Python 3
 * JavaScript
