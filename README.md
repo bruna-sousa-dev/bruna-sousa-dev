@@ -1,82 +1,106 @@
-# 👋 Olá, eu sou a Bruna Sousa!
+# Olá, eu sou a Bruna Sousa 👋
 
-🎯 Desenvolvedora apaixonada por tecnologia e soluções criativas.
+## 👩‍💻 Sobre mim
 
-💻 Explorando o mundo da programação com foco em desenvolvimento de aplicações web full-stack, soluções de Inteligência Artificial e Internet das Coisas
+Sou Engenheira Eletrônica, desenvolvedora IoT, Web e IA, com experiência no desenvolvimento de soluções completas envolvendo hardware, software, backend, infraestrutura e inteligência artificial.
 
-🌱 Atualmente aprimorando minhas habilidades em Flask, Docker e desenvolvimento web.
+Atuo com projetos que conectam sistemas embarcados, aplicações web, APIs, bancos de dados, automação, análise de dados e deploy em ambientes de produção.
 
----
-
-# 🚀 Algumas Tecnologias & Ferramentas
-
-## 🖥️ Linguagens
-
-* Python 3
-* JavaScript
-* C++
-* HTML5
-* CSS3
-
-## 🛠️ Frameworks e Bibliotecas
-
-* Flask
-* Flet
-* Selenium
-
-## 🗄️ Infraestrutura e DevOps
-
-* Docker & Docker Compose
-* Servidor WSGI Gunicorn
-* Proxy reverso Nginx
-* Broker MQTT
-
-## 📡 Internet das Coisas (IoT)
-
-* ESP32
-* LoRa & LoRaWAN
-* Mqtt
-
-## 🤖 Inteligência Artificial
-
-* Fine-tuning de LLM (Large Language Models)
+- 🎓 Engenheira Eletrônica
+- 🤖 Especialista em Ciência de Dados e Inteligência Artificial
+- 🌐 Desenvolvedora IoT, Web e IA
+- ⚙️ Experiência com sistemas embarcados, APIs, infraestrutura e dados
+- 🚀 Construindo projetos públicos com foco em portfólio profissional
 
 ---
 
-## 📌 Projetos em Destaque
+## 🎯 Foco atual
 
-* 🔐 [fullstack-authentication-web-app-with-database](https://github.com/bruna-sousa-dev/fullstack-authentication-web-app-with-database):
-  Aplicação full-stack com autenticação de usuários utilizando Flask no backend e uma interface web estática no frontend.
-
-* 🎮 [jogo-da-forca](https://github.com/bruna-sousa-dev/jogo-da-forca):
-  Jogo da forca desenvolvido com Python e Flet, demonstrando lógica de programação e manipulação de strings.
-
-* 🧰 [icons-finder](https://github.com/bruna-sousa-dev/icons-finder):
-  Ferramenta para busca e visualização de ícones, facilitando o trabalho de designers e desenvolvedores. Desenvolvido com Python e Flet.
-
-* ✍️ [markdown-edit](https://github.com/bruna-sousa-dev/markdown-edit):
-  Editor de Markdown simples e eficiente para criação de documentos formatados. Desenvolvido com Python e Flet.
-
-* 🧮 [iphone-calculator-clone](https://github.com/bruna-sousa-dev/iphone-calculator-clone):
-  Clone da calculadora do iPhone, recriada com foco em design e funcionalidade. Desenvolvido com Python e Flet.
-
-* 📊 [habits-app](https://github.com/bruna-sousa-dev/habits-app):
-  Aplicativo para acompanhamento de hábitos, incentivando a produtividade e o bem-estar. Desenvolvido com Python e Flet.
+- Desenvolvimento de plataformas IoT com análise de dados
+- APIs com FastAPI, Python e PostgreSQL
+- Dashboards e sistemas full stack
+- Projetos com Inteligência Artificial aplicada
+- Deploy de aplicações com Docker, Nginx e VPS
+- Construção de portfólio técnico no GitHub
 
 ---
 
-## 📬 Como me encontrar
+## 📊 Estatísticas do GitHub
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/bruna-sousa-dev/)
-* 📪 [Instagram](https://www.instagram.com/eng.brunasousa/)
-* 📧 [Email](mailto:brunampsousa.dev@gmail.com)
+![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruna-sousa-dev&show_icons=true&theme=tokyonight)
 
----
-
-## 📈 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-sousa-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-sousa-dev&layout=compact&theme=tokyonight)
 
 ---
 
-> “A única maneira de fazer um excelente trabalho é amar o que você faz.” – Steve Jobs
+## 🛠️ Tecnologias & Ferramentas
+
+### Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### IoT & Embarcados
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-1C1C1C?style=for-the-badge)
+
+### DevOps & Infraestrutura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Dados & IA
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+### IoT Data Intelligence Platform
+
+Plataforma full stack para transformação de dados IoT em informações úteis para análise, monitoramento e tomada de decisão.
+
+**Stack:** FastAPI, PostgreSQL, React, Pandas, Docker, Nginx e IA.
+
+[Ver repositório](https://github.com/bruna-sousa-dev)
+
+---
+
+### Fast Movie API
+
+API REST para operações CRUD de filmes, desenvolvida com FastAPI, SQLAlchemy, Pydantic, Alembic, SQLite e documentação com MkDocs.
+
+[Ver repositório](https://github.com/bruna-sousa-dev/fast-movie-api)
+
+---
+
+## 🌐 Vamos nos conectar
+
+[![GitHub](https://img.shields.io/badge/GitHub-bruna--sousa--dev-181717?style=for-the-badge&logo=github)](https://github.com/bruna-sousa-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruna%20Sousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN)
+
+---
+
+⭐ Desenvolvendo soluções com IoT, dados, web e inteligência artificial.
